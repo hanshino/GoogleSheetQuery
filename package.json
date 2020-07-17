@@ -1,0 +1,29 @@
+{
+  "name": "google-sheet-query",
+  "version": "1.0.0",
+  "description": "Fetch Google Sheet Data via SQL statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hanshino",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "GoogleSheet",
+    "SQL"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hanshino/GoogleSheetQuery"
+  },
+  "bugs": {
+    "url": "https://github.com/hanshino/GoogleSheetQuery/issues"
+  },
+  "homepage": "https://github.com/hanshino"
+}
